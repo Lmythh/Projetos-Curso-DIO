@@ -1,4 +1,4 @@
-# 👋 Olá Meu Nome é André Lucas Nascimento da Silva
+# 👋 Olá Meu Nome é André Lucas
 
 	Desenvolvedor de Jogos Em Aprendizado
 	
