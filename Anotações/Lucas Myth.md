@@ -19,7 +19,7 @@
 
 ## 📚☕ Atualmente estou estudando:
 
-- [![Programação De Jogos](https://img.shields.io/badge/Programação-000?style=for-the-badge&logo=games)](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+[![Programação De Jogos](https://img.shields.io/badge/Programação-000?style=for-the-badge&logo=games)](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
 
 ### Meus Principais Desafios de Projeto DIO
 
