@@ -17,9 +17,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lmythh&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## 📚☕ Atualmente estou estudando:
+## 📚☕ Atualmente estou estudando: <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 
 
 [![Programação De Jogos](https://img.shields.io/badge/Programação-000?style=for-the-badge&logo=games)](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+</a>
+  </i>
+</p> 
+<p> <img class="respondive" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
 
 ### Meus Principais Desafios de Projeto DIO
 
