@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Crie um relatório para nos ajudar a melhorar
-title: ''
-labels: ''
-assignees: ''
+title: Bug
+labels: bug, documentation, good first issue, help wanted, invalid, question
+assignees: Lmythh
 
 ---
 

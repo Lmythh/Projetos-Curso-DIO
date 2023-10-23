@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Sugira uma ideia para este projeto
-title: ''
-labels: ''
-assignees: ''
+title: Sugestões
+labels: documentation, enhancement, good first issue, question, suggestion
+assignees: Lmythh
 
 ---
 
