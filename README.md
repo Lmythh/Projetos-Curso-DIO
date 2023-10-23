@@ -1,2 +1,3 @@
 # Projetos-Curso-DIO
-Curso-DIO-Desafio
+
+- DESAFIO DIO: Criando o Meu Primeiro Respositório
